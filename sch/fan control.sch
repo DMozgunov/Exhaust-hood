@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:fan control-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1377,4 +1378,12 @@ Wire Wire Line
 Wire Wire Line
 	8050 1300 8050 1500
 Connection ~ 8050 1500
+Wire Wire Line
+	2600 6400 4600 6400
+Wire Wire Line
+	4600 6400 4600 5950
+Wire Wire Line
+	4600 5950 1900 5950
+Wire Wire Line
+	1900 5950 1900 5750
 $EndSCHEMATC
