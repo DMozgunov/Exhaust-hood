@@ -70,6 +70,7 @@ OBJECTFILES=${OBJECTDIR}/newpic_8b_simple.o
 SOURCEFILES=newpic_8b_simple.asm
 
 
+
 CFLAGS=
 ASFLAGS=
 LDLIBSOPTIONS=
